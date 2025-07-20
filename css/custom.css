@@ -83,3 +83,15 @@ ul.disc{
     border: 1px dashed black;
 }
 
+.navbar ul li a {
+  text-decoration: none;
+  color: rgb(94, 106, 133);
+  font-size: 1.7rem;
+  padding: 15px 15px;
+  transition: all 0.5s ease;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.navbar ul li a:hover {
+  color: #ff8800;
+}
